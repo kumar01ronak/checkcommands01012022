@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="54.918059">
+    <testcase classname="Login Functionality" name="Check the Login Functionality with all sets of data" time="12.708315">
+        <system-out>
+            <![CDATA[Given launch login page.....................................................passed
+Then enters the "adaewdw" and enters "ygds".................................passed
+Then click on the login button..............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Login Functionality" name="Check the Login Functionality with all sets of data 2" time="11.521343">
+        <system-out>
+            <![CDATA[Given launch login page.....................................................passed
+Then enters the "bxzhb" and enters "abnjnxj"................................passed
+Then click on the login button..............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Login Functionality" name="Check the Login Functionality with all sets of data 3" time="11.99577">
+        <system-out>
+            <![CDATA[Given launch login page.....................................................passed
+Then enters the "shhgsa" and enters "snxknk"................................passed
+Then click on the login button..............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Login Functionality" name="Check the Login Functionality with all sets of data 4" time="18.692631">
+        <system-out>
+            <![CDATA[Given launch login page.....................................................passed
+Then enters the "Admin" and enters "admin123"...............................passed
+Then click on the login button..............................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

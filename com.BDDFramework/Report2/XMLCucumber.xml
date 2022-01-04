@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="4" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="0.009076">
+    <testcase classname="Login Functionality" name="Check the Login Functionality" time="0.006664">
+        <failure message="The scenario has pending or undefined step(s)">
+            <![CDATA[Given launch login page.....................................................undefined
+Then enters the "adaewdw" and enters "ygds".................................undefined
+And click on the login button...............................................undefined
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="Login Functionality" name="Check the Login Functionality 2" time="0.000613">
+        <failure message="The scenario has pending or undefined step(s)">
+            <![CDATA[Given launch login page.....................................................undefined
+Then enters the "bxzhb" and enters "abnjnxj"................................undefined
+And click on the login button...............................................undefined
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="Login Functionality" name="Check the Login Functionality 3" time="0.000569">
+        <failure message="The scenario has pending or undefined step(s)">
+            <![CDATA[Given launch login page.....................................................undefined
+Then enters the "shhgsak" and enters "snxknk"...............................undefined
+And click on the login button...............................................undefined
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="Login Functionality" name="Check the Login Functionality 4" time="0.00123">
+        <failure message="The scenario has pending or undefined step(s)">
+            <![CDATA[Given launch login page.....................................................undefined
+Then enters the "Admin" and enters "admin123"...............................undefined
+And click on the login button...............................................undefined
+]]>
+        </failure>
+    </testcase>
+</testsuite>

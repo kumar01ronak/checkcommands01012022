@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="5" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-19T19:13:34 IST" name="Suite" finished-at="2021-12-19T19:14:01 IST" duration-ms="26255">
+    <groups>
+    </groups>
+    <test started-at="2021-12-19T19:13:34 IST" name="Test" finished-at="2021-12-19T19:14:01 IST" duration-ms="26255">
+      <class name="TestNG.Home_Test">
+        <test-method signature="Logout()[pri:0, instance:TestNG.Home_Test@4a883b15]" started-at="2021-12-19T19:13:53 IST" name="Logout" finished-at="2021-12-19T19:14:01 IST" duration-ms="7415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+      </class> <!-- TestNG.Home_Test -->
+      <class name="TestNG.LoginTest">
+        <test-method is-config="true" signature="Launch_Browser()[pri:0, instance:TestNG.LoginTest@4d5650ae]" started-at="2021-12-19T19:12:45 IST" name="Launch_Browser" finished-at="2021-12-19T19:13:34 IST" duration-ms="49117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch_Browser -->
+        <test-method signature="Forget_Password()[pri:0, instance:TestNG.LoginTest@4d5650ae]" started-at="2021-12-19T19:13:34 IST" name="Forget_Password" finished-at="2021-12-19T19:13:40 IST" duration-ms="5943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Forget_Password -->
+        <test-method signature="Login()[pri:1, instance:TestNG.LoginTest@4d5650ae]" started-at="2021-12-19T19:13:40 IST" name="Login" finished-at="2021-12-19T19:13:53 IST" duration-ms="12847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="Close()[pri:0, instance:TestNG.LoginTest@4d5650ae]" started-at="2021-12-19T19:14:01 IST" name="Close" finished-at="2021-12-19T19:14:02 IST" duration-ms="890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+      </class> <!-- TestNG.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-16T09:33:31 IST" name="Suite" finished-at="2021-12-16T09:33:41 IST" duration-ms="9499">
+    <groups>
+    </groups>
+    <test started-at="2021-12-16T09:33:31 IST" name="Test" finished-at="2021-12-16T09:33:41 IST" duration-ms="9499">
+      <class name="DriverMaven.Loginmaven">
+        <test-method is-config="true" signature="Launch()[pri:0, instance:DriverMaven.Loginmaven@3cebbb30]" started-at="2021-12-16T09:33:16 IST" name="Launch" finished-at="2021-12-16T09:33:31 IST" duration-ms="15425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+        <test-method signature="Forget_Password()[pri:0, instance:DriverMaven.Loginmaven@3cebbb30]" started-at="2021-12-16T09:33:31 IST" name="Forget_Password" finished-at="2021-12-16T09:33:33 IST" duration-ms="2086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Forget_Password -->
+        <test-method signature="Login()[pri:0, instance:DriverMaven.Loginmaven@3cebbb30]" started-at="2021-12-16T09:33:33 IST" name="Login" finished-at="2021-12-16T09:33:41 IST" duration-ms="7339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="Close_Browser()[pri:0, instance:DriverMaven.Loginmaven@3cebbb30]" started-at="2021-12-16T09:33:41 IST" name="Close_Browser" finished-at="2021-12-16T09:33:41 IST" duration-ms="478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_Browser -->
+      </class> <!-- DriverMaven.Loginmaven -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
